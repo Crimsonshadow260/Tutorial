@@ -1,0 +1,7 @@
+var = {};
+
+// Location
+var fXLoc = 10.0;
+var fYloc = 10.0;
+
+var
